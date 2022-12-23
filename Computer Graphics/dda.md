@@ -1,8 +1,11 @@
 **PROGRAM 1 : To write a C program to draw a line using DDA Algorithm.**
 
 ```c
-#include <stdio.h > #include <conio.h > #include <stdlib.h > 
-#include <graphics.h > void main()
+#include <stdio.h > 
+#include <conio.h >
+#include <stdlib.h > 
+#include <graphics.h > 
+void main()
 
 {
 	int i, steps, x1, x2, y1, y2;
