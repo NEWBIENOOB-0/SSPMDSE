@@ -1,8 +1,8 @@
 **Program 2: WAP to implement Bresenham’s Line Drawing Algorithm.**
 ```c
-#include <stdio.h >
+#include <stdio.h>
 #include <conio.h>
-#include <graphics.h > 
+#include <graphics.h> 
 #include <dos.h> 
 void main()
 
