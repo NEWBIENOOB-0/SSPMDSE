@@ -2,7 +2,7 @@
 
 # Index
 
-1. To write a C program to draw a line using DDAAlgorithm. 
+1. To write a C program to draw a line using DDA Algorithm. 
 
 3. WAP to implement Bresenham’s Line Drawing Algorithm.
 4. WAP to implement 2D Translation
