@@ -1,4 +1,4 @@
-# EXPERIMENT NO 7 A
+## EXPERIMENT NO 7 A
 
 **Aim: Implementation of Graph Data Structure.(DFS Traversal)**
 ```c
@@ -92,7 +92,7 @@ void dfs(int adj[][MAX], int visited[], int start)
 0
 DFS Traversal is A B E F C D
 ```
-# EXPERIMENT NO 7 B
+## EXPERIMENT NO 7 B
 **Aim: Implementation of Graph Data Structure.(BFS Traversal)**
 ```c
 #include <stdio.h>
