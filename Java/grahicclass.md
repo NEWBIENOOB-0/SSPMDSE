@@ -23,7 +23,6 @@ width=300 Height=250>
 </html>
 ```
 **OUTPUT**
-```
+
 ![image](https://user-images.githubusercontent.com/54370549/212139703-948a98fd-e5ed-4632-b214-778fd12afaf4.png)
 
-```
