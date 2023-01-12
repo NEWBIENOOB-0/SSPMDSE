@@ -41,7 +41,7 @@ class Main {
 ArithmeticException => / by zero
 ```
 
-** Exception handling using Java throw**
+**Exception handling using Java throw**
 ```java 
 class Main {
  public static void divideByZero() {
