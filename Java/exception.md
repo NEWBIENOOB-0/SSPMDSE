@@ -17,7 +17,7 @@ class Main {
 ```
 ArithmeticException => / by zero
 ```
-
+---
 **Example: Java Exception Handling using finally block**
 ```java 
 class Main {
@@ -40,7 +40,7 @@ class Main {
 ```
 ArithmeticException => / by zero
 ```
-
+---
 **Exception handling using Java throw**
 ```java 
 class Main {
