@@ -18,3 +18,25 @@ public static void main(String args[]) {
 ```
 8
 ```
+---
+**part 2**
+```java 
+final class stud {
+// Methods cannot be extended to its sub class
+}
+class books extends stud {
+void show() {
+ System.out.println("Book-Class method");
+}
+public static void main(String args[]) {
+ books B1 = new books();
+ B1.show();
+}
+}
+```
+**OUTPUT**
+```
+This will show an error that:
+error: cannot inherit from final stud
+class books extends stud{
+```
