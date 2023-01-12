@@ -1,6 +1,6 @@
 # JAVA
 
-# Index
+## Index
 [1.Write a java program on class and objects.](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Java/classesandobjects.md)
 
 [2. Write a java program on pacakges.](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Java/packages.md)
