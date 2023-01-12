@@ -1,4 +1,4 @@
-**Aim: Write a java program on pacakges**
+**Aim: Write a java program on strings and arrays*
 ```java 
 class Main {
  public static void main(String[] args) {
