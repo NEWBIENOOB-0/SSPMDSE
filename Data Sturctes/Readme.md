@@ -11,6 +11,6 @@
 
 [5. Implement Doubly Linked List ADT.](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Data%20Sturctes/DoublyLinked.md)
 
-[[6 A]. Implement Stack Queue ADT using Linked List.](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Data%20Sturctes/StackLinear.md)   [[6 B].  Implement Linear Queue ADT using Linked List.](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Data%20Sturctes/StackLinear.md)  
+[[6 A]. Implement Stack Queue ADT using Linked List.](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Data%20Sturctes/StackLinear.md)   [[6 B].  Implement Linear Queue ADT using Linked List.](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Data%20Sturctes/StackLinear.md#part-2)  
 
 7. Implement Graph Traversal techniques :[a) Depth First Search](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Data%20Sturctes/dfsbfs.md#experiment-no-7-a) [b) Breadth First Search](https://github.com/NEWBIENOOB-0/SSPMDSE/blob/main/Data%20Sturctes/dfsbfs.md#experiment-no-7-b)
