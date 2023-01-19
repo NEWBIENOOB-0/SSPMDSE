@@ -1,7 +1,10 @@
 **Program 4 : WAP toimplement 2D Rotation.**
 ```c
-#include <graphics.h > #include <stdio.h > #include <conio.h > 
-#include <math.h > void main()
+#include <graphics.h> 
+#include <stdio.h> 
+#include <conio.h > 
+#include <math.h > 
+void main()
 
 {
 	int gd = DETECT, gm;
