@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
-main()
+void main()
 {
             int gd,gm,i,j;
 
