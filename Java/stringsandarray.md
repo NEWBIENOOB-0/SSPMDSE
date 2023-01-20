@@ -1,24 +1,27 @@
 **Aim: Write a java program on strings and arrays**
 ```java 
-class Main {
- public static void main(String[] args) {
+public class StringsAndArrays {
+    public static void main(String[] args) {
+        // Create a String array with 3 elements
+        String[] myArray = new String[3];
+        myArray[0] = "Hello";
+        myArray[1] = "World";
+        myArray[2] = "!";
 
- String first = "Java";
- String second = "Python";
- String third = "JavaScript";
- System.out.println(first); // print Java
- System.out.println(second); // print Python
- System.out.println(third); // print JavaScript
- }
+        // Print out the elements of the array
+        for (int i=0; i<myArray.length; i++) {
+            System.out.print(myArray[i]);
+        }
+
+        // Create a String from the array elements 
+        String myString = String.join(" ", myArray);
+
+        // Print out the string 
+        System.out.println("\n" + myString);
+
+    } 
 }
-class Main {
- public static void main(String[] args) {
- String greet = "Hello! World";
- System.out.println("String: " + greet);
- int length = greet.length();
- System.out.println("Length: " + length);
- }
-}
+
 ```
 **OUTPUT**
 ```
