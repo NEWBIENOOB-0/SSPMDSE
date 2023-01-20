@@ -10,7 +10,7 @@ void main(String args[])
 {
 // We don't need to use 'System.out'
 // as imported using static.
-out.println("GeeksforGeeks");
+system.out.println("GeeksforGeeks");
 }
 }
 ```
