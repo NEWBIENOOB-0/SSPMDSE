@@ -25,7 +25,7 @@ public class StringsAndArrays {
 ```
 **OUTPUT**
 ```
-String: Hello! World
+String: Hello World!
 Length: 12
 ```
 ---
