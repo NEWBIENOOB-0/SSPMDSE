@@ -26,7 +26,7 @@ public class StringsAndArrays {
 **OUTPUT**
 ```
 HelloWorld!
-Hello World !
+Hello World!
 ```
 ---
 **part 2**
